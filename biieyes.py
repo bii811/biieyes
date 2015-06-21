@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #biieyes.py
+# -S 7 is minimum for ID 041e:4088 Creative Technology, Ltd
 
 import os
 
